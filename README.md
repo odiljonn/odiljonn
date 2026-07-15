@@ -2,7 +2,7 @@
 <h3 align="center">🧑🏻‍💻 Frontend Developer | Early Bird | Learning & Building 🚀 🦅</h3>
 
 
-<h3> love creating modern and responsive websites.
+<h3 align="center"> love creating modern and responsive websites.
 Currently improving my frontend development skills and learning new technologies. </h3>I 
 
 ---
