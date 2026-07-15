@@ -21,14 +21,19 @@ Currently improving my frontend development skills and learning new technologies
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="60" />
 
-
-
 </p>
 
 ---
-
 ## 🌱 Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="60" />
+</p>
+
+## 🧠 AI & Development Tools
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/cursor" width="60" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude" width="60" />
 </p>
