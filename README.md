@@ -45,7 +45,7 @@ React
 <td align="center">
 <img src="https://cdn.simpleicons.org/python" width="50"/>
 <br>
-Python
+Learning Python
 </td>
 
 <td align="center">
