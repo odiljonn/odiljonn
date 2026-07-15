@@ -7,37 +7,59 @@ Currently improving my frontend development skills and learning new technologies
 
 ---
 
+## 💻 Languages & Technologies
 
-## 💻 Programming Languages & Technologies
+<table>
+<tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="60" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="60" />
+<td align="center">
+<img src="https://cdn.simpleicons.org/html5" width="50"/>
+<br>
+HTML
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.simpleicons.org/css3" width="50"/>
+<br>
+CSS
+</td>
 
----
-## 🌱 Currently Learning
+<td align="center">
+<img src="https://cdn.simpleicons.org/javascript" width="50"/>
+<br>
+JavaScript
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60" />
-</p>
+<td align="center">
+<img src="https://cdn.simpleicons.org/typescript" width="50"/>
+<br>
+TypeScript
+</td>
 
-## 🧠 AI & Development Tools
+<td align="center">
+<img src="https://cdn.simpleicons.org/react" width="50"/>
+<br>
+React
+</td>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/cursor/white" width="60"/>
-  <br>
-  Cursor AI
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude" width="60"/>
-  <br>
-  Claude AI
-</p>
+<td align="center">
+<img src="https://cdn.simpleicons.org/python" width="50"/>
+<br>
+Python
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/claude" width="50"/>
+<br>
+Claude AI
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/cursor/5865F2" width="50"/>
+<br>
+Cursor AI
+</td>
+
+</tr>
+</table>
+
