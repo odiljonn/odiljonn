@@ -19,7 +19,7 @@ HTML
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/css3" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <br>
 CSS
 </td>
