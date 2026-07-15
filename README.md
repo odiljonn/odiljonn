@@ -20,6 +20,10 @@ Currently improving my frontend development skills and learning new technologies
   <img src="https://skillicons.dev/icons?i=ts" width="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="60" />
+    <img src="https://skillicons.dev/icons?i=c++" width="60" />
+
+
+
 </p>
 
 ---
