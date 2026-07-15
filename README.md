@@ -10,18 +10,26 @@ Currently improving my frontend development skills and learning new technologies
 ## 💻 Technologies & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=react" />
+
+<img src="https://skillicons.dev/icons?i=html" width="50" />
+<img src="https://skillicons.dev/icons?i=css" width="50" />
+<img src="https://skillicons.dev/icons?i=js" width="50" />
+<img src="https://skillicons.dev/icons?i=ts" width="50" />
+<img src="https://skillicons.dev/icons?i=react" width="50" />
+
 </p>
 
----
+<p align="left">
+HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; JavaScript &nbsp;&nbsp; TypeScript &nbsp;&nbsp; React
+</p>
+
 
 ## 🌱 Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" width="50" />
 </p>
 
+<p align="left">
+Python
+</p>
