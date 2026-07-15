@@ -7,30 +7,25 @@ Currently improving my frontend development skills and learning new technologies
 
 ---
 
-## 💻 Programming Languages & Technologies
 
 ## 💻 Programming Languages & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=js" width="50" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin-right: 15px;" />
-  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin-right: 15px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="60" />
 </p>
 
-
-<p align="left">
-HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; JavaScript &nbsp;&nbsp; TypeScript &nbsp;&nbsp; React
-</p>
-
+---
 
 ## 🌱 Currently Learning
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" width="50" />
-</p>
-
-<p align="left">
-Python
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="60" />
 </p>
